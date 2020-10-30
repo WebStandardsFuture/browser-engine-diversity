@@ -10,6 +10,7 @@ We propose using the [issues list](https://github.com/WebStandardsFuture/browser
 ## References
 * Session description: https://www.w3.org/2020/10/TPAC/breakout-schedule.html#engine-scion
 * Minutes: https://www.w3.org/2020/10/29-engine-scion-minutes.html
+* IRC log: https://www.w3.org/2020/10/29-engine-scion-irc
 
 ## Additional reading
 * Twitter thread: https://twitter.com/mc2hampion/status/1321887435379204096
