@@ -1,6 +1,7 @@
 # browser-engine-diversity
-This repo exists to follow up on the Waning Web Platform Engine Diversity virtual breakout session at [TPAC 2020](https://www.w3.org/2020/10/TPAC/). 
+This repo exists to follow up on the Waning Web Platform Engine Diversity virtual breakout session at [TPAC 2020](https://www.w3.org/2020/10/TPAC/), and explore browser engine diversity issues and opportunities across multiple standards organizations (IETF, TC39 W3C, WHATWG).
 
+TPAC Session details:
 > Summary: How should the W3C Process adapt to a world with fewer engine implementers, but more browsers and stakeholders? The open source browser projects are shipping tested, interoperable implementations of new specs well before they reach Recommendation. Horizontal review must happen at the incubation stage or shortly thereafter to have any impact on what browser teams ship. What if anything can the Process do to encourage early engagement by user representatives and horizontal review communities rather than using the PR stage as the checkpoint to ensure this happens? How do we define what web stakeholders should treat as the "real" web standards?
 
 > Goals: Gather ideas for the future of the W3C Process and incubation process.
